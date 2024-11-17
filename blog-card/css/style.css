@@ -29,6 +29,7 @@ body {
   height: 24px;
   padding-left: 7px;
   padding-right: 7px;
+  padding: 1px 7px;
 }
 
 .blog-card__image {
